@@ -96,5 +96,5 @@ with tabs[2]:
 
 # --- Footer ---
 st.markdown("---")
-st.caption("Developed by Anangsha Halder | Smart Home AI Dashboard | © 2025")
+st.caption("Developed by Aditya Kumar Roy | Smart Home AI Dashboard | © 2025")
 
