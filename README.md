@@ -128,19 +128,6 @@ datetime,Appliances
 | Appliances_roll6    | Avg. usage in last 6 hours           |
 
 ---
-
-## 📷 Screenshots (Optional)
-
-> _Add Streamlit screenshots of live predictions and trend plots for visual reference._
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See `LICENSE` for details.
-
----
-
 ## 👩‍💻 Author
 
 **Aditya Kumar Roy**  
